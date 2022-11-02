@@ -1,7 +1,7 @@
 //red for x and black for o
 //add turns so x and then o goes or only one square can be pressed at a time
 let squares = document.getElementsByClassName("square");
-
+//change
 
 function timeFunction(z) {
             setTimeout(function(){ alert( z + " is the winner!"); }, 600);
