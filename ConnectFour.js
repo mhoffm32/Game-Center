@@ -13,7 +13,7 @@ for(button of column1){
 
 
 function chip(){
-    let clicked = false;
+    let clicked = true;
 
     do{
 
